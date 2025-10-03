@@ -23,8 +23,6 @@ I'm an engineer in Japan. I studied applied physics at university.
 
 ## 📊 Stats
 
-[![Pixelneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=morgen-code)](https://github.com/morgen-code/github-readme-stats)
-
 <p align="left">
   <a href="http://qiita.com/morgen-code">
     <img height="20" src="https://qiita-badge.apiapi.app/s/morgen-code/posts.svg" />
@@ -33,3 +31,14 @@ I'm an engineer in Japan. I studied applied physics at university.
     <img height="20" src="https://qiita-badge.apiapi.app/s/morgen-code/contributions.svg" />
   </a>
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morgen-code&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morgen-code&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morgen-code&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=morgen-code&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morgen-code&theme=gruvbox&utcOffset=9)
+
+
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=morgen-code&theme=gruvbox)
