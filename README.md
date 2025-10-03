@@ -18,6 +18,9 @@ I'm an engineer in Japan. I studied applied physics at university.
 ### Framework
 - Spring Framework
 
+### DB
+- PostgreSQL
+
 ### Certification
 - Fundamental Information Technology Engineer Examination
 - Python 3 Basic Grammar Certification
@@ -30,11 +33,7 @@ I'm an engineer in Japan. I studied applied physics at university.
 - Chaotic Dynamics 🦋
 - Competitive Programming 🥇
 
-
-
 ## 📊 Stats
-
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morgen-code&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morgen-code&theme=gruvbox)
