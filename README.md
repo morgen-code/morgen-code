@@ -13,6 +13,9 @@ I'm an engineer in Japan. I studied applied physics at university.
 ### Framework
 - Spring Framework
 
+### Certification
+- Fundamental Information Technology Engineer Examination
+- Python 3 Basic Grammar Certification
 ### Interests
 - Machine Learning :🤖
 - Data Science 👨‍🔬
