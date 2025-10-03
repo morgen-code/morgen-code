@@ -41,6 +41,3 @@ I'm an engineer in Japan. I studied applied physics at university.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morgen-code&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=morgen-code&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morgen-code&theme=gruvbox&utcOffset=9)
-
-## 🏆 Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=morgen-code&theme=gruvbox)
