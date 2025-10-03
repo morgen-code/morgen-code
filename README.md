@@ -1,5 +1,5 @@
 # Hi there 👋 Welcome to my GitHub!
-## Profile
+## 🙍‍♂️ Profile
 I'm an engineer in Japan. I studied applied physics at university.
 ### Language
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Python_logo_%28icon_only%29.svg" width="50" height="50"/>
@@ -43,5 +43,5 @@ I'm an engineer in Japan. I studied applied physics at university.
 
 
 
-## Trophy
+## 🏆 Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=morgen-code&theme=gruvbox)
