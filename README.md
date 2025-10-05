@@ -26,9 +26,13 @@ B.Sc. in Applied Physics, Tokyo University of Science (2025) — Research focus 
 - Competitive Programming 🥇
 
 ## ⚒️ Skills
-### Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,md,latex,bash" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,java,python,c,bash" /> <br /><br />
+
+### Markup Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,md,latex" /> <br /><br />
 
 ### Web Tools
 
@@ -58,3 +62,6 @@ B.Sc. in Applied Physics, Tokyo University of Science (2025) — Research focus 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morgen-code&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=morgen-code&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morgen-code&theme=gruvbox&utcOffset=9)
+
+## 🏆 Trophy 
+![trophy](https://github-profile-trophy.vercel.app/?username=morgen-code&theme=gruvbox)
