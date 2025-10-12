@@ -5,8 +5,8 @@
 [![Articles](https://badgen.org/img/qiita/morgen-code/articles?style=plastic)](https://qiita.com/morgen-code)
 [![Contributions](https://badgen.org/img/qiita/morgen-code/contributions?style=plastic)](https://qiita.com/morgen-code)
 [![Followers](https://badgen.org/img/qiita/morgen-code/followers?style=plastic)](https://qiita.com/morgen-code)
-[![Rating](https://badgen.org/img/atcoder/morgen_code/rating/algorithm?style=plastic)](https://atcoder.jp/users/morgen_code?contestType=algo)
-[![Rating(Heuristic)](https://badgen.org/img/atcoder/morgen_code/rating/heuristic?style=plastic)](https://atcoder.jp/users/morgen_code?contestType=heuristic)
+<a href="https://atcoder.jp/users/morgen_code?contestType=algo"><img src="https://badgen.org/img/atcoder/morgen_code/rating/algorithm?style=plastic" alt="Rating" /></a>
+<a href="https://atcoder.jp/users/morgen_code?contestType=heuristic"><img src="https://badgen.org/img/atcoder/morgen_code/rating/heuristic?style=plastic" alt="Rating(Heuristic)" /></a>
 
 ![](https://raw.githubusercontent.com/morgen-code/morgen-code/output/github-contribution-grid-snake-dark.svg)
 
