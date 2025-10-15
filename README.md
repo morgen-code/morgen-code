@@ -9,7 +9,7 @@
 [![AtCoder Rating (Algorithm)](https://badgen.org/img/atcoder/morgen_code/rating/algorithm?style=plastic)](https://atcoder.jp/users/morgen_code?contestType=algo)
 [![AtCoder Rating (Heuristic)](https://badgen.org/img/atcoder/morgen_code/rating/heuristic?style=plastic)](https://atcoder.jp/users/morgen_code?contestType=heuristic)
 
-![](https://raw.githubusercontent.com/morgen-code/morgen-code/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/morgen-code/morgen-code/output/github-contribution-grid-snake.svg)
 
 ## 👨‍🦲 Profile  
 I'm an engineer based in Japan, interested in the interface between **data science**, **mathematical modeling**, and **complex systems**.  
