@@ -33,8 +33,41 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 
 ## ⚒️ Skills
 
-<img src="https://skillicons.dev/icons?i=python,java,js,c,bash,html,css,md,latex,cloudflare,gradle,ubuntu,linux,windows,powershell,git,github,vscode,anaconda,eclipse,emacs,matlab,opencv,tensorflow,notion,gmail,discord" />  
-<br />
+### Language
+
+![](https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,js,md,latex,bash&theme=dark)
+
+### Environment
+
+![](https://go-skill-icons.vercel.app/api/icons?i=googlecolab,ubuntu,linux,windows,powershell,git,githubcopilot,gitbash,github,vscode,anaconda,eclipse,emacs,overleaf,terminal,idea,wsl&theme=dark)
+
+### Framework
+
+![](https://go-skill-icons.vercel.app/api/icons?i=django,spring&theme=dark)
+
+### Library
+
+![](https://go-skill-icons.vercel.app/api/icons?i=matplotlib,numpy,opencv,tensorflow,pytorch,pygame&theme=dark)
+
+### Office Software
+
+![](https://go-skill-icons.vercel.app/api/icons?i=excel,word,powerpoint,outlook,teams,onedrive&theme=dark)
+
+### Adobe Software
+
+![](https://go-skill-icons.vercel.app/api/icons?i=lightroom,premiere&theme=dark)
+
+### Knowledge
+
+![](https://go-skill-icons.vercel.app/api/icons?i=notion,slack,teams,zen,reddit&theme=dark)
+
+### LLMs
+
+![](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt&theme=dark)
+
+### Other
+
+![](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,gradle,matlab,tomcat,unity,wordpress,raspberrypi,postgresql,matlab,mysql,obs&theme=dark)
 
 ## 📊 Stats
 
