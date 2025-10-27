@@ -1,13 +1,13 @@
 # Hi 👋 Welcome to my GitHub!
 
-![](https://komarev.com/ghpvc/?username=morgen-code&style=plastic)
-[![GitHub followers](https://img.shields.io/github/followers/morgen-code?label=follow&logo=github&style=plastic)](https://github.com/morgen-code)
-[![GitHub stars](https://img.shields.io/github/stars/morgen-code?logo=github&style=plastic)](https://github.com/morgen-code)
-[![Qiita Articles](https://badgen.org/img/qiita/morgen-code/articles?style=plastic)](https://qiita.com/morgen-code)
-[![Qiita Contributions](https://badgen.org/img/qiita/morgen-code/contributions?style=plastic)](https://qiita.com/morgen-code)
-[![Qiita Followers](https://badgen.org/img/qiita/morgen-code/followers?style=plastic)](https://qiita.com/morgen-code)
-[![AtCoder Rating (Algorithm)](https://badgen.org/img/atcoder/morgen_code/rating/algorithm?style=plastic)](https://atcoder.jp/users/morgen_code?contestType=algo)
-[![AtCoder Rating (Heuristic)](https://badgen.org/img/atcoder/morgen_code/rating/heuristic?style=plastic)](https://atcoder.jp/users/morgen_code?contestType=heuristic)
+[![](https://komarev.com/ghpvc/?username=morgen-code&style=plastic)](https://github.com/morgen-code)
+[![](https://img.shields.io/github/followers/morgen-code?label=follow&logo=github&style=plastic)](https://github.com/morgen-code)
+[![](https://img.shields.io/github/stars/morgen-code?logo=github&style=plastic)](https://github.com/morgen-code)
+[![](https://badgen.org/img/qiita/morgen-code/articles?style=plastic)](https://qiita.com/morgen-code)
+[![](https://badgen.org/img/qiita/morgen-code/contributions?style=plastic)](https://qiita.com/morgen-code)
+[![](https://badgen.org/img/qiita/morgen-code/followers?style=plastic)](https://qiita.com/morgen-code)
+[![](https://badgen.org/img/atcoder/morgen_code/rating/algorithm?style=plastic)](https://atcoder.jp/users/morgen_code?contestType=algo)
+[![](https://badgen.org/img/atcoder/morgen_code/rating/heuristic?style=plastic)](https://atcoder.jp/users/morgen_code?contestType=heuristic)
 
 ![](https://raw.githubusercontent.com/morgen-code/morgen-code/output/github-contribution-grid-snake.svg)
 
@@ -67,7 +67,7 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 
 ## 🏆 Trophy  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=morgen-code&theme=gruvbox)
+![](https://github-profile-trophy.vercel.app/?username=morgen-code&theme=gruvbox)
 
 ## 🪴 Philosophy  
 
