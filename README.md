@@ -33,41 +33,29 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 
 ## ⚒️ Skills
 
-### Language
+### 🧠 Programming Languages
+![](https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,js,bash,md,latex&theme=dark)
 
-![](https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,js,md,latex,bash&theme=dark)
+### 🧩 Frameworks & Libraries
+![](https://go-skill-icons.vercel.app/api/icons?i=django,spring,matplotlib,numpy,opencv,tensorflow,pytorch,pygame&theme=dark)
 
-### Environment
+### 💻 Development Environment
+![](https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,idea,emacs,anaconda,googlecolab,terminal,gitbash,wsl,ubuntu,linux,windows&theme=dark)
 
-![](https://go-skill-icons.vercel.app/api/icons?i=googlecolab,ubuntu,linux,windows,powershell,git,githubcopilot,gitbash,github,vscode,anaconda,eclipse,emacs,overleaf,terminal,idea,wsl&theme=dark)
+### ☁️ Tools & Services
+![](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubcopilot,cloudflare,gradle,tomcat,unity,wordpress,raspberrypi,obs&theme=dark)
 
-### Framework
+### 🗄️ Databases
+![](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql&theme=dark)
 
-![](https://go-skill-icons.vercel.app/api/icons?i=django,spring&theme=dark)
+### 🧮 AI & Computational Tools
+![](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,matlab&theme=dark)
 
-### Library
-
-![](https://go-skill-icons.vercel.app/api/icons?i=matplotlib,numpy,opencv,tensorflow,pytorch,pygame&theme=dark)
-
-### Office Software
-
-![](https://go-skill-icons.vercel.app/api/icons?i=excel,word,powerpoint,outlook,teams,onedrive&theme=dark)
-
-### Adobe Software
-
+### 🎨 Design & Creative Tools
 ![](https://go-skill-icons.vercel.app/api/icons?i=lightroom,premiere&theme=dark)
 
-### Knowledge
-
-![](https://go-skill-icons.vercel.app/api/icons?i=notion,slack,teams,zen,reddit&theme=dark)
-
-### LLMs
-
-![](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt&theme=dark)
-
-### Other
-
-![](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,gradle,matlab,tomcat,unity,wordpress,raspberrypi,postgresql,matlab,mysql,obs&theme=dark)
+### 🏢 Business & Collaboration
+![](https://go-skill-icons.vercel.app/api/icons?i=notion,slack,teams,outlook,onedrive,powerpoint,word,excel,zen,reddit&theme=dark)
 
 ## 📊 Stats
 
