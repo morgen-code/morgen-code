@@ -36,8 +36,8 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 ### 🧠 Programming Languages
 ![](https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,js,bash,md,latex&theme=dark)
 
-### 🧩 Frameworks & Libraries
-![](https://go-skill-icons.vercel.app/api/icons?i=django,spring,matplotlib,numpy,opencv,tensorflow,pytorch,pygame&theme=dark)
+### 📖 Libraries
+![](https://go-skill-icons.vercel.app/api/icons?i=matplotlib,numpy,opencv,tensorflow,pytorch,pygame&theme=dark)
 
 ### 💻 Development Environment
 ![](https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,idea,emacs,anaconda,googlecolab,terminal,gitbash,wsl,ubuntu,linux,windows&theme=dark)
@@ -55,7 +55,7 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 ![](https://go-skill-icons.vercel.app/api/icons?i=notion,slack,teams,outlook,onedrive,powerpoint,word,excel,zen,reddit&theme=dark)
 
 ### 🖋️ Currently studying
-![](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,postgresql,mysql,cloudflare,gradle,tomcat,unity,wordpress&theme=dark)
+![](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,postgresql,mysql,cloudflare,gradle,tomcat,unity,wordpress,django,spring&theme=dark)
 
 ## 📊 Stats
 
