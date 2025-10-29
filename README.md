@@ -40,7 +40,10 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 ![](https://go-skill-icons.vercel.app/api/icons?i=matplotlib,numpy,opencv,tensorflow,pytorch,pygame&theme=dark)
 
 ### 💻 Development Environment
-![](https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,idea,emacs,anaconda,googlecolab,terminal,gitbash,wsl,ubuntu,linux,windows&theme=dark)
+![](https://go-skill-icons.vercel.app/api/icons?i=anaconda,googlecolab,terminal,gitbash,wsl,ubuntu,linux,windows&theme=dark)
+
+### 📓 Editors and IDEs
+![](https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,idea,emacs,jupyter&theme=dark)
 
 ### ☁️ Tools & Services
 ![](https://go-skill-icons.vercel.app/api/icons?i=git,github,obs&theme=dark)
