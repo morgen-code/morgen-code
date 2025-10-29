@@ -43,10 +43,7 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 ![](https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,idea,emacs,anaconda,googlecolab,terminal,gitbash,wsl,ubuntu,linux,windows&theme=dark)
 
 ### ☁️ Tools & Services
-![](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubcopilot,cloudflare,gradle,tomcat,unity,wordpress,raspberrypi,obs&theme=dark)
-
-### 🗄️ Databases
-![](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql&theme=dark)
+![](https://go-skill-icons.vercel.app/api/icons?i=git,github,obs&theme=dark)
 
 ### 🧮 AI & Computational Tools
 ![](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,matlab&theme=dark)
@@ -56,6 +53,9 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 
 ### 🏢 Business & Collaboration
 ![](https://go-skill-icons.vercel.app/api/icons?i=notion,slack,teams,outlook,onedrive,powerpoint,word,excel,zen,reddit&theme=dark)
+
+### 🖋️ Currently studying
+![](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,postgresql,mysql,cloudflare,gradle,tomcat,unity,wordpress&theme=dark)
 
 ## 📊 Stats
 
