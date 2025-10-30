@@ -72,7 +72,7 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 
 ![](https://github-profile-trophy.vercel.app/?username=morgen-code&theme=gruvbox)
 
-## 🪴 Philosophy  
+## 🍀 Philosophy  
 
 > “Divide each difficulty into as many parts as is feasible and necessary to resolve it.”  
 > — René Descartes  
