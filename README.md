@@ -21,7 +21,8 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 
 ### 🧾 Certifications  
 - 🖥️ Fundamental Information Technology Engineer Examination  
-- 🐍 Python 3 Basic Grammar Certification 
+- 🐍 Python 3 Basic Grammar Certification
+- ⚡ Third-Class Chief Electrical Engineer
 
 ### 💡 Interests  
 - 🤖 Machine Learning & Artificial Intelligence
