@@ -38,7 +38,7 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 ![](https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,js,bash,md,latex&theme=dark)
 
 ### 📖 Libraries
-![](https://go-skill-icons.vercel.app/api/icons?i=matplotlib,numpy,opencv,tensorflow,pytorch,pygame&theme=dark)
+![](https://go-skill-icons.vercel.app/api/icons?i=matplotlib,numpy,opencv,tensorflow&theme=dark)
 
 ### 💻 Development Environment
 ![](https://go-skill-icons.vercel.app/api/icons?i=anaconda,googlecolab,terminal,gitbash,wsl,ubuntu,linux,windows,jupyter&theme=dark)
@@ -49,17 +49,12 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 ### ☁️ Tools & Services
 ![](https://go-skill-icons.vercel.app/api/icons?i=git,github,obs&theme=dark)
 
-### 🧮 AI & Computational Tools
-![](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,matlab&theme=dark)
-
 ### 🎨 Design & Creative Tools
 ![](https://go-skill-icons.vercel.app/api/icons?i=lightroom,premiere&theme=dark)
 
 ### 🏢 Business & Collaboration
 ![](https://go-skill-icons.vercel.app/api/icons?i=notion,slack,teams,outlook,onedrive,powerpoint,word,excel,zen,reddit&theme=dark)
 
-### 🖋️ Currently studying
-![](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,postgresql,mysql,cloudflare,gradle,tomcat,unity,wordpress,django,spring&theme=dark)
 
 ## 📊 Stats
 
@@ -72,11 +67,6 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 ## 🏆 Trophy  
 
 ![](https://github-profile-trophy.vercel.app/?username=morgen-code&theme=gruvbox)
-
-## 🍀 Philosophy  
-
-> “Divide each difficulty into as many parts as is feasible and necessary to resolve it.”  
-> — René Descartes  
 
 
 ⭐ *Thanks for visiting!*
