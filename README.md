@@ -64,9 +64,5 @@ Research Focus: **Active Matter & Self-Organization in Non-Equilibrium Systems**
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=morgen-code&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morgen-code&theme=gruvbox&utcOffset=9)
 
-## 🏆 Trophy  
-
-![](https://github-profile-trophy.vercel.app/?username=morgen-code&theme=gruvbox)
-
 
 ⭐ *Thanks for visiting!*
